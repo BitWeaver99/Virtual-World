@@ -44,7 +44,7 @@ This project is a **procedural world generation tool** built entirely from scrat
 
 - **Customizable Parameters**: Modify terrain features, scale, and biome rules.
 
-- **Configurable Output**: Uses **Lua** and **YAML** for configurations and data output.*(The project is in its early stages and does not have implemented features yet. Below are the planned features:)*
+- **Configurable Output**: Uses **Lua** and **YAML** for configurations and data output.
 
 
 
